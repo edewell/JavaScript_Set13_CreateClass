@@ -7,7 +7,7 @@ In your main function create two Movie objects, assign a value to each attribute
 
 Remember, this is the basic model of a javascript file with a class
 ```javascript
-class Movie(){
+class Movie{
   CLASS HERE
 }
 
